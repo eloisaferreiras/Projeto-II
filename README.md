@@ -1,7 +1,7 @@
 # Projeto II
 <h1 align="center">ⓅⓇⓄⒿⒺⓉⓄ ⒾⒾ </h1>
 
-project about a personal blog ⚡
+news blog design⚡
 
 practice on the css module, in professor jamilton's course, on udemy.
 
@@ -11,6 +11,7 @@ practice on the css module, in professor jamilton's course, on udemy.
 
 
 https://user-images.githubusercontent.com/73046034/215490045-b9b6bc9c-2743-4eb4-9bc9-56d1f7cf2d5d.mp4
+
 
 
 
